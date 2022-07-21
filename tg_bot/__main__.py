@@ -25,9 +25,10 @@ Iam only for Agunivers servant so iam not help you 🤣
 Anyways /help to get all help
 ➖➖➖➖➖➖➖➖➖➖➖➖➖🚵‍♀️
 """
+Spoidermon_IMG = "https://telegra.ph/file/925b8e0781e4cacc042d9.jpg"
 
 HELP_STRINGS = """
-Vanakanda mapula😎*{}*,Enna help patiya!.
+Vanakanda mapula😎*{}*,Enna help katiya!.
 I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of \
 the things I can help you with.
 *Main* commands available:
@@ -60,13 +61,7 @@ CHAT_SETTINGS = {}
 USER_SETTINGS = {}
 
 GDPR = []
-
-START_IMG = os.environ.get('START_IMG', None)
-if START_IMG is None:
-    img = "https://telegra.ph/file/925b8e0781e4cacc042d9.jpg"
-else:
-  img = START_IMG    
-
+  
 for module_name in ALL_MODULES:
     imported_module = importlib.import_module("tg_bot.modules." + module_name)
     if not hasattr(imported_module, "__mod_name__"):
