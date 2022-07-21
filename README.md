@@ -1,5 +1,5 @@
 # tgbot7 😎
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+Spoidermon+♥️'s+Repo!;A+Powerful+Group+modular+bot!;and+all+futures!+support+me+😘!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+Spoidermon+♥️'s+Repo!;A+Powerful+Group+modular+bot!;and+all+futures!+support+me+😘!;created+by+Aadhithya🥰)
 </p>
 <center><img src="https://telegra.ph/file/39400337bda261d6d7060.jpg"></center>
 <br>
