@@ -19,15 +19,16 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
-Vanakanda mapula😎 {}, Enperu {}! Tirupurla irunthu😎
-Na oru Group Management bot 😁 
+Vanakanda mapula😎 {}, Enperu (Spoidermon)! Tirupurla irunthu😎
+Iam a best and powerful group Management bot 😁 created by @spoidermon
 Iam only for Agunivers servant so iam not help you 🤣
 Anyways /help to get all help
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
 """
+Spoidermon_IMG = "https://telegra.ph/file/925b8e0781e4cacc042d9.jpg"
 
 HELP_STRINGS = """
-Vanakanda mapula😎*{}*.
+Vanakanda mapula😎*{}*,Enna help patiya!.
 I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of \
 the things I can help you with.
 *Main* commands available:
