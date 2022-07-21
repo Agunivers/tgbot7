@@ -18,14 +18,13 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-➖➖➖➖➖➖➖➖➖➖➖➖➖
+➖➖➖➖➖➖➖➖➖➖➖➖➖🥇
 Vanakanda mapula😎 {}, Enperu (Spoidermon)! Tirupurla irunthu😎
 Iam a best and powerful group Management bot 😁 created by @spoidermon12
 Iam only for Agunivers servant so iam not help you 🤣
 Anyways /help to get all help
-➖➖➖➖➖➖➖➖➖➖➖➖➖
+➖➖➖➖➖➖➖➖➖➖➖➖➖🚵‍♀️
 """
-Spoidermon_IMG = "https://telegra.ph/file/925b8e0781e4cacc042d9.jpg"
 
 HELP_STRINGS = """
 Vanakanda mapula😎*{}*,Enna help patiya!.
