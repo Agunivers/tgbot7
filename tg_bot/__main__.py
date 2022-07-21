@@ -18,11 +18,12 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-
+➖➖➖➖➖➖➖➖➖➖➖➖➖
 Vanakanda mapula😎 {}, Enperu {}! Tirupurla irunthu😎
 Na oru Group Management bot 😁 
 Iam only for Agunivers servant so iam not help you 🤣
 Anyways /help to get all help
+➖➖➖➖➖➖➖➖➖➖➖➖➖
 """
 
 HELP_STRINGS = """
