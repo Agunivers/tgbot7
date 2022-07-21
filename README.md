@@ -11,7 +11,7 @@
 Originally a best and powerful group management bot with multiple admin features, it has evolved, becoming extremely modular and 
 simple to use.
 
-Can be found me on telegram as [Aadhithya](https://t.me/@Spoidermon12).
+Can be found me on telegram as [Aadhithya](https://t.me/Spoidermon12).
 
 Kochu and I are moderating a [support group](https://t.me/Agunivers_backup), where you can ask for help setting up your
 bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. Of course
@@ -20,7 +20,7 @@ I'll also help when a database schema changes, and some table column needs to be
 Join the [news channel](https://t.me/+-VTuSl1PSf8xODk1) if you just want to stay in the loop about new features or
 announcements.
 
-Alternatively, [find me on telegram](https://t.me/jithumon)! (Keep all support questions in the support chat, where more people can help you.)
+Alternatively, [find me on telegram](https://t.me/Spoidermon12)! (Keep all support questions in the support chat, where more people can help you.)
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Agunivers/tgbot7)<br>
