@@ -1,5 +1,4 @@
 import importlib
-Import os
 import re
 from typing import Optional, List
 
@@ -62,12 +61,6 @@ CHAT_SETTINGS = {}
 USER_SETTINGS = {}
 
 GDPR = []
-
-START_IMG = os.environ.get('START_IMG', None)
-if START_IMG is None:
-    img = "https://telegra.ph/file/3055edd96c58853e03f15.jpg"
-else:
-  img = START_IMG    
   
 for module_name in ALL_MODULES:
     imported_module = importlib.import_module("tg_bot.modules." + module_name)
