@@ -351,7 +351,7 @@ def rmall_callback(bot: Bot, update: Update):
             count = 0
             filterlist = []
             for x in allfilters:
-                count += 1
+                count += []
                 filterlist.append(x)
 
             for i in filterlist:
