@@ -18,6 +18,7 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
+Spoidermon_IMG = "https://telegra.ph/file/925b8e0781e4cacc042d9.jpg"
 ➖➖➖➖➖➖➖➖➖➖➖➖➖🥇
 Vanakanda mapula😎 {}, Enperu (Spoidermon)! Tirupurla irunthu😎
 Iam a best and powerful group Management bot 😁 created by @spoidermon12
