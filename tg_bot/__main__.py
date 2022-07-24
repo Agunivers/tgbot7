@@ -1,4 +1,5 @@
 import importlib
+Import os
 import re
 from typing import Optional, List
 
@@ -18,7 +19,6 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Spoidermon_IMG = "https://telegra.ph/file/925b8e0781e4cacc042d9.jpg"
 ➖➖➖➖➖➖➖➖➖➖➖➖➖🥇
 Vanakanda mapula😎 {}, Enperu (Spoidermon)! Tirupurla irunthu😎
 Iam a best and powerful group Management bot 😁 created by @spoidermon12
@@ -26,7 +26,7 @@ Iam only for Agunivers servant so iam not help you 🤣
 Anyways /help to get all help
 ➖➖➖➖➖➖➖➖➖➖➖➖➖🚵‍♀️
 """
-Spoidermon_IMG = "https://telegra.ph/file/925b8e0781e4cacc042d9.jpg"
+
 
 HELP_STRINGS = """
 Vanakanda mapula😎*{}*,Enna help katiya!.
@@ -62,6 +62,12 @@ CHAT_SETTINGS = {}
 USER_SETTINGS = {}
 
 GDPR = []
+
+START_IMG = os.environ.get('START_IMG', None)
+if START_IMG is None:
+    img = "https://telegra.ph/file/3055edd96c58853e03f15.jpg"
+else:
+  img = START_IMG    
   
 for module_name in ALL_MODULES:
     imported_module = importlib.import_module("tg_bot.modules." + module_name)
